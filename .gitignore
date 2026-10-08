@@ -1,0 +1,5 @@
+# Raw harness output holds result titles and .onion addresses. Never commit it.
+data/raw/
+.env
+__pycache__/
+*.pyc
